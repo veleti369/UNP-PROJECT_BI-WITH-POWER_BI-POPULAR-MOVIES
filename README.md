@@ -1,5 +1,5 @@
 # UNP-PROJECT_BI-WITH-POWER_BI-POPULAR-MOVIES
-Key Insights:
+
 Contributed to the development of KPI's and dynamic, interactive Power BI interfaces.
 Collaborated in understanding the requirements, what all can be done for better understanding of the data.
 I was involved in Exploring the Data, Identifying Risk Factors, Visualizing Insights with accurate analysis and reporting.
